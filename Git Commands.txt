@@ -1,0 +1,10 @@
+https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+git push -u orign master
+git commit -m "Fist commit" Test.txt
+git status
+git add .
+cd into the directory
+git clone https://github.com/reachbiju/PythonTraining.git
+git config --global user.email boommen7@gmail.com
+git config --global user.name "reachbiju"
