@@ -1,4 +1,6 @@
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+# To GET THE LATEST VERSION. CD INTO THE REPOSITORY , THEN DO ...
+git pull origin
 
 git push -u origin master
 git commit -m "Fist commit" 
