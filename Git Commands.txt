@@ -1,28 +1,6 @@
-https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
-# To GET THE LATEST VERSION. CD INTO THE REPOSITORY , THEN DO ...
 git pull origin
 
 git push -u origin master
-git commit -m "Fist commit" 
+git commit -m "Biju: Changes "
 git status
-Make changes <<<
 git add .
-cd into the directory
-git clone https://github.com/reachbiju/PythonTraining.git
-git config --global user.email boommen7@gmail.com
-git config --global user.name "reachbiju"
-
-
-
-Mac Terminal Commands
-Ctrl + C 	Kill whatever you are running
-cd 	Home directory
-cd ~ 	Home directory
-cd / 	Root of drive
-ls 	Short listing
-ls -l 	Long listing
-clear   clear screen
-mkdir [dir] 	Create new directory
-rmdir [dir] 	Remove directory ( only operates on empty directories )
-cp [file] [newfile] 	Copy file to file
-grep -r "string" *
