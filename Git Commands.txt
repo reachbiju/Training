@@ -1,6 +1,12 @@
+
 git pull origin
 
 git push -u origin master
-git commit -m "Biju: Changes "
+git commit -m "Fist commit" 
 git status
+Make changes <<<
 git add .
+cd into the directory
+git clone https://github.com/reachbiju/PythonTraining.git
+git config --global user.email boommen7@gmail.com
+git config --global user.name "reachbiju"
