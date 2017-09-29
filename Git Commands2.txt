@@ -1,0 +1,15 @@
+
+
+
+Mac Terminal Commands
+Ctrl + C 	Kill whatever you are running
+cd 	Home directory
+cd ~ 	Home directory
+cd / 	Root of drive
+ls 	Short listing
+ls -l 	Long listing
+clear   clear screen
+mkdir [dir] 	Create new directory
+rmdir [dir] 	Remove directory ( only operates on empty directories )
+cp [file] [newfile] 	Copy file to file
+grep -r "string" *
