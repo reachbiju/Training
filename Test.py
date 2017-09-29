@@ -1,6 +1,8 @@
-fname = input("Enter file name: ")
-eMail = open(fname)
-for item in eMail:
-    itemx= item.split()
-    if not item.startswith('To'): continue
-    print(itemx[0])
+fname = "Romeo.txt"
+fh = open(fname)
+lst = list()
+for line in fh:
+    for l in line.split():
+        print(l)
+    #lst.sort()
+    #print(lst)

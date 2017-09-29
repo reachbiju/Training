@@ -1,8 +1,5 @@
 From:	Oommen, Biju
 Sent:	Wednesday, August 16, 2017 5:27 PM
-To:	Ganguly, Pinaki; Kamada, Rahul; Zala, Praveen; Divekar, Kaushal; Vierling, 
-Andrew; Katalinich, Mark; Dhar, Vikas; Ponnekanti, Sri; Chaganty, Navin
+To:	Ganguly, Pinaki; Kamada, Rahul; Zala, Praveen; Divekar, Kaushal; Vierling, Andrew; Katalinich, Mark; Dhar, Vikas; Ponnekanti, Sri; Chaganty, Navin
 Subject:	Automation Workshop Parking Lot Items.xlsx
 Attachments:	Automation Workshop Parking Lot items.xlsx
-
-
