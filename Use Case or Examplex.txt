@@ -1,0 +1,6 @@
+list
+    Example1: Get all the recepients from an email
+    Example2: Get all UNIQUE words in a text
+Dictionaries
+    Example1: Get the most COMMON words in a text
+    Example2: Get the COUNT of each word in a text
