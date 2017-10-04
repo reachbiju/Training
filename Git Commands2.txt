@@ -4,6 +4,7 @@
 Mac Terminal Commands
 Ctrl + C 	Kill whatever you are running
 cd 	Home directory
+cd ..   Move 1 level up
 cd ~ 	Home directory
 cd / 	Root of drive
 ls 	Short listing
